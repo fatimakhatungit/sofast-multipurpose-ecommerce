@@ -16,6 +16,7 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+
 .img {
   max-width: 100%;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -196,6 +197,23 @@ label {
 
 .bg-light-dark {
   background-color: #2E2E2E;
+}
+
+.top {
+  padding: 10px 0px;
+}
+
+.top .top-title {
+  background-color: #fefefe;
+}
+
+.top .top-title p {
+  color: #5a5757;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 20px;
 }
 
 .header-transparent {
